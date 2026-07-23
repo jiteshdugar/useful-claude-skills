@@ -4,7 +4,7 @@ What each skill does, how it helps, and a ready-to-use prompt for each.
 
 ---
 
-## 1. Token Optimization
+## 1. Caveman Mode
 
 ### What it's used for
 Processing massive volumes of information—dozens of research papers, PDFs, articles, or decks—using minimal tokens.
@@ -15,7 +15,7 @@ Processing massive volumes of information—dozens of research papers, PDFs, art
 - Delivers highly concise summaries without sacrificing data quality.
 
 ### Prompt
-> Analyze these **[number]** research papers/documents on **[topic]**. Summarize the top tactics working right now ranked by impact, and cite the original source for each while keeping token usage to a minimum.
+> Using the caveman mode, analyze these **[number]** research papers/documents on **[topic]**. Summarize the top tactics working right now ranked by impact, and cite the original source for each while keeping token usage to a minimum.
 
 ---
 
