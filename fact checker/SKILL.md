@@ -211,16 +211,6 @@ Match precision to source:
 **Source says:** "200,000 token context window"
 **Write:** "200K tokens" (exact)
 
-### Citation format
-
-Include citations in corrections:
-
-```markdown
-> **注**：具体上下文窗口以模型官方文档为准，本书写作时使用 Claude Sonnet 4.5 为主要工具。
-```
-
-Link to sources when possible.
-
 ## Examples
 
 ### Example 1: Technical specification update
